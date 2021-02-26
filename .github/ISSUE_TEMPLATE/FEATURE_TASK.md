@@ -1,5 +1,5 @@
 ---
-name: "\U0001FA9C Feature Task"
+name: "\U0001F529 Feature Task"
 about: "New part of a feature \U0001F9E9!"
 title: "[F-TASK]: "
 labels: "feature-task"
