@@ -6,6 +6,7 @@ labels: "bug"
 
 ---
 
+
 # Bug
 
 ## Current behavior
