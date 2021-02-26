@@ -1,11 +1,3 @@
----
-name: "Feature"
-about: "A new feature \U0001F63B!"
-title: "[FEAT]: "
-labels: "feature"
-
----
-
 # Related issues
 <!-- Closes | Fixes #Issue -->
 

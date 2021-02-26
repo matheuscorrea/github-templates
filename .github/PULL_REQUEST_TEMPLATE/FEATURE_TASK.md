@@ -1,11 +1,3 @@
----
-name: "\U0001FA9C Feature Task"
-about: "New part of a feature \U0001F9E9!"
-title: "[F-TASK]: "
-labels: "feature-task"
-
----
-
 # Related issues
 <!-- Closes | Fixes #Issue -->
 
