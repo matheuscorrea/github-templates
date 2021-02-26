@@ -1,8 +1,8 @@
 ---
-name: '\U0001F41B Bug'
-about: 'If something isn't working as expected \U0001F914.'
-title: '[BUG]: '
-labels: 'bug'
+name: "\U0001F41B Bug"
+about: "If something isn"t working as expected \U0001F914."
+title: "[BUG]: "
+labels: "bug"
 
 ---
 

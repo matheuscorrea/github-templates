@@ -1,8 +1,8 @@
 ---
 name: "\U0001F525 Bugfix"
 about: "It is on fire, bug!  \U0001F525."
-title: '[BUGFIX]: '
-labels: 'bugfix'
+title: "[BUGFIX]: "
+labels: "bugfix"
 
 ---
 

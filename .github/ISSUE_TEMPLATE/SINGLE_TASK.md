@@ -1,8 +1,8 @@
 ---
 name: "\U0001F6E0 Single Task"
-about: "A task that isn't part of a feature \U0001F3AF!"
-title: '[S-TASK]: '
-labels: 'single-task'
+about: "A task that isn"t part of a feature \U0001F3AF!"
+title: "[S-TASK]: "
+labels: "single-task"
 
 ---
 

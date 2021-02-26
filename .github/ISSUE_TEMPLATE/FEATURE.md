@@ -1,8 +1,8 @@
 ---
 name: "\U0001F680 Feature"
 about: "A new feature \U0001F63B!"
-title: '[FEAT]: '
-labels: 'feature'
+title: "[FEAT]: "
+labels: "feature"
 
 ---
 
