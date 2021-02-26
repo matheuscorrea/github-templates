@@ -1,4 +1,5 @@
 # github-templates
+Some tests with template on Github
 
 ## Issue Templates
 

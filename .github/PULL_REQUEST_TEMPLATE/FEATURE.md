@@ -3,11 +3,10 @@
 
 <!-- Brief feature description -->
 
-## Is the feature ready to production?
-- [ ] 
-
-## Quality Assurance
-- [ ] Is the changes covered by unit tests?
+## CI/CD
+- [ ] Ready for production?
+- [ ] Approved by stakeholder?
+- [ ] Ready for homologation?
 
 ## Notes
 <!-- Write here some comments you might want to share -->
